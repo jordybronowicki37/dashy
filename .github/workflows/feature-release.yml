@@ -2,7 +2,7 @@ name: Feature release
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   bump-tag-version:
